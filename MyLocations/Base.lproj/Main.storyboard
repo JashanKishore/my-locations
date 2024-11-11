@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="(Message Label)" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SN6-Pu-9Ua">
-                                <rect key="frame" x="124" y="34" width="127" height="21"/>
+                                <rect key="frame" x="16" y="34" width="343" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -89,7 +89,7 @@
                             <constraint firstItem="n0X-OM-TcM" firstAttribute="top" secondItem="SN6-Pu-9Ua" secondAttribute="bottom" constant="29" id="jKr-mc-DXe"/>
                             <constraint firstItem="Cai-6R-7Vm" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="p26-EP-exj"/>
                             <constraint firstItem="SN6-Pu-9Ua" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="p6A-p3-FWc"/>
-                            <constraint firstItem="SN6-Pu-9Ua" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="124" id="rBJ-fa-jq4"/>
+                            <constraint firstItem="SN6-Pu-9Ua" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="rBJ-fa-jq4"/>
                             <constraint firstItem="s9Y-32-MK5" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="tIR-fI-0x7"/>
                             <constraint firstItem="GjY-jc-BnT" firstAttribute="top" secondItem="LnZ-CP-Y3N" secondAttribute="bottom" constant="33" id="x3p-sv-kDX"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="0JQ-FH-2rp" secondAttribute="trailing" constant="82.5" id="xyo-U1-q8l"/>
